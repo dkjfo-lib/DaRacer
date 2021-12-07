@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: earth water
+  m_Shader: {fileID: -6465566751694194690, guid: 06adba691c0d2304b9abbcf327fd5741, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_371d275bceab48a7866cc6a3554265cc:
+        m_Texture: {fileID: 2800000, guid: e3abc9b49937eb543882b9fd5a1516cb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_4721a58ad5004fca8dfff54d39d2b811:
+        m_Texture: {fileID: 2800000, guid: 3fb635372b004de4f87c1a0243130cba, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_3ce7aab2f81a4be7bc1a0e169995555f_Texture_1:
+        m_Texture: {fileID: 2800000, guid: a2ab24f69180377429c901500cc47389, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_a76bdb2e8e3f45b5a70441ea211e6fff_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 546ad281d16d3bf468c26e529b2150af, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_0352e0e7e31a4c8eba475b3fed119960: 0.0025
+    - Vector1_15b42c34f58e4456b60eb39c0cf6652f: 3
+    - Vector1_23c51dc2a44047aeadf859f59ea511c3: 1
+    - Vector1_291505d28d624864b214088b3e2ab1f8: 0.03
+    - Vector1_3e5b143f0b60461db53c63a34ee25096: 0.38
+    - Vector1_666febbe443d4317a7a976c16f0c43e1: 0.2
+    - Vector1_6afc1f25088e4e1ba74fa690e6c05738: 2
+    - Vector1_6b0ca45511cb4de9bdfb5b7f46e9e9ec: 0.1
+    - Vector1_7e26e3ea603649949fa9d47e72ac3e13: -60
+    - Vector1_7eac33f2c4d247aebf979cae9d3ed386: 200
+    - Vector1_a7042582ff6a40a99368743942690d25: 0.5
+    - Vector1_a8f468b807e3483b85ce340bed924664: 5
+    - Vector1_bc296632c31746da967d282879345a85: -0.002
+    - Vector1_c76db2a8aec040ddb14c4481b4412816: 0.2
+    m_Colors:
+    - Color_0019e06b69c44e7fb54f2abeedcec596: {r: 0.7809185, g: 0.8833225, b: 0.9056604, a: 0}
+    - Color_3f13c8b79cce47fdacc181bb31219f2a: {r: 0.2637949, g: 0.2981643, b: 0.5660378, a: 0}
+    - Color_4445533b6e27415c89910f060e94708a: {r: 0.1737273, g: 0.4494452, b: 0.754717, a: 0}
+    - Vector2_bbe05cfcbc564c31a7db1e6a9fc20e9d: {r: 15, g: 15.2, b: 0, a: 0}
+  m_BuildTextureStacks: []
